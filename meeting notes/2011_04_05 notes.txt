@@ -1,0 +1,24 @@
+python code kata
+
+all internet traffic: http
+GET, POST requests (PUT DELETE)  (these map to CRUD operations, REST API)
+POST - Create
+GET - Read
+PUT - Update
+DELETE - Delete
+
+TCP/IP socket connection asks for file, server returns
+
+High level GIT concepts
+5 main commands
+
+next time: create repository, clone, share
+
+
+extra credit: set up github account
+try making your own repository and clone locally.
+
+mp3 player, download podcast on technology
+
+Pro Git (yellow and black) - book recommendation
+read online
